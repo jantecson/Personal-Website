@@ -41,7 +41,4 @@ li a {
   flex-direction: column;
   padding: 1.5em;
   flex-shrink: 3; */
-   position: relative; 
-  top: 300px;
-  right: 600px;
 }
