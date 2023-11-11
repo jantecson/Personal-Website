@@ -6,14 +6,7 @@ body {
 /* navigation bar */
 ul {
   list-style-type: none;
-  overflow: hidden;
-  background-color: #F7E3AF;
-  padding: 1.5em;
+  margin: 0;
+  padding: 0
 }
 
-li {
-  display: inline;
-  padding: 0.5em;
-  border-right: 2px solid #C08497;
-  background-color: none;
-}
