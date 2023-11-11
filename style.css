@@ -16,6 +16,7 @@ ul {
   overflow: hidden;
   position: fixed;
   top: 0;
+  right:200;
   width: 100%;
   padding: 1.5em;
 }
