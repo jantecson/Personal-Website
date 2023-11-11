@@ -12,7 +12,7 @@ body {
 
 /* small intro */
 .small-intro{
-  font-size: 2em;
+  font-size: 1.7em;
   margin-top: 50px;
   margin-left: 100px;
 }
@@ -24,8 +24,8 @@ body {
 }
 
 ul {
-  margin-top: 25px;
-  margin-left: 30px;
+  margin-top: 20px;
+  margin-right: 60px;
   list-style-type: none;
   overflow: hidden;
   position: fixed;
