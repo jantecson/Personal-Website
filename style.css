@@ -2,3 +2,18 @@
 body {
   background-color: #ffffff;
 }
+
+/* navigation bar */
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #F7E3AF;
+  padding: 1.5em;
+}
+
+li {
+  display: inline;
+  padding: 0.5em;
+  border-right: 2px solid #C08497;
+  background-color: none;
+}
