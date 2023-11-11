@@ -1,0 +1,11 @@
+/* background color*/
+body {
+  background-color: #dec8f7;
+}
+
+/* navigation bar */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0
+}
