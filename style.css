@@ -20,13 +20,11 @@ body {
 
 /* navigation bar */
 .nav-bar{
-  margin-top: 30px;
-  margin-right: 30px;
+  margin-top: 20px;
+  margin-right: 80px;
 }
 
 ul {
-  margin-top: 20px;
-  margin-right: 60px;
   list-style-type: none;
   overflow: hidden;
   position: fixed;
