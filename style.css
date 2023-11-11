@@ -11,6 +11,11 @@ body {
 }
 
 /* navigation bar */
+.nav-bar{
+  margin-top: 50px;
+  margin-right: 70px;
+}
+
 ul {
   list-style-type: none;
   overflow: hidden;
