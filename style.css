@@ -1,0 +1,21 @@
+/* background color*/
+body {
+  background-color: #ffffff;
+}
+
+/* navigation bar */
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  padding: 1.5em;
+}
+
+li {
+  display: inline;
+  padding: 0.5em;
+  background-color: none;
+}
+
+li:last-child {
+  border-right: none;
+}
